@@ -7,3 +7,9 @@ process.stdin.on('readable', function() {
         console.log('readComplete') ;
     }
 })
+
+dvdv
+dvdvzd
+vf
+b
+
